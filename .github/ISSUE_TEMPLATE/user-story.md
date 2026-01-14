@@ -5,11 +5,12 @@ title: ''
 labels: ''
 assignees: ''
 ---
-**As a** [role]  
-**I need** [function]  
-**So that** [benefit]
+
+**As a** Catalog Administrator  
+**I need** the ability to create a product in the catalog  
+**So that** I can add new items to the store.
 
 ### Acceptance Criteria
-**Given** [context]  
-**When** [action]  
-**Then** [outcome]
+**Given** I have the details for a new product  
+**When** I submit the product information to the catalog  
+**Then** the product should be saved and appear in the catalog list.
